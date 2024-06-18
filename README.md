@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jesús</h1>
-<h3 align="center">Junior developer with a keen interest in front-end development but with a solid understanding of back-end technologies. I love creating beautiful, responsive, and user-friendly websites and applications🫶🏻.</h3>
+<h3 align="center">A junior developer with a keen interest in front-end development, but with a solid understanding of back-end technologies. I love creating beautiful, responsive, and user-friendly websites and applications🫶🏻.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jesusalejodev&label=Profile%20views&color=0e75b6&style=flat" alt="jesusalejodev" /> </p>
 

@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Tailwind, Vue.js, Angular**
 
-- 👨‍💻 All of my projects are available at [jesusalejodev.es](jesusalejodev.es)
+- 👨‍💻 All of my projects are available at [jesusalejodev.vercel.app](https://jesusalejodev.vercel.app/)]
 
 - 💬 Ask me about **react, kotlin, java, HTML, CSS, sql**
 
